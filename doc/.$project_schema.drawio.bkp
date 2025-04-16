@@ -1,0 +1,53 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Pagina-1" id="6SSiDDcHRrODiOZz1LAl">
+    <mxGraphModel dx="816" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S6TbMvdym62xUCECoMbe-2" value="PRO MICRO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S6TbMvdym62xUCECoMbe-10" value="PCB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="S6TbMvdym62xUCECoMbe-4" value="ACTIVE SPEAKER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="600" y="305" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="S6TbMvdym62xUCECoMbe-3" value="DFPLAYER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S6TbMvdym62xUCECoMbe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" edge="1" parent="1" source="S6TbMvdym62xUCECoMbe-2" target="S6TbMvdym62xUCECoMbe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6TbMvdym62xUCECoMbe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=oval;endFill=1;strokeWidth=3;" edge="1" parent="1" source="S6TbMvdym62xUCECoMbe-1" target="S6TbMvdym62xUCECoMbe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6TbMvdym62xUCECoMbe-17" value="CAT6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S6TbMvdym62xUCECoMbe-9">
+          <mxGeometry x="-0.2389" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6TbMvdym62xUCECoMbe-1" value="RWCL-0516" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S6TbMvdym62xUCECoMbe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;strokeWidth=3;" edge="1" parent="1" source="S6TbMvdym62xUCECoMbe-3" target="S6TbMvdym62xUCECoMbe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6TbMvdym62xUCECoMbe-16" value="AUDIO UNBAL." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S6TbMvdym62xUCECoMbe-7">
+          <mxGeometry x="-0.0025" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6TbMvdym62xUCECoMbe-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#AAAAAA;" vertex="1" parent="1">
+          <mxGeometry x="625" y="385" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="S6TbMvdym62xUCECoMbe-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#AAAAAA;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="335" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="S6TbMvdym62xUCECoMbe-18" value="PCB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="140" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
